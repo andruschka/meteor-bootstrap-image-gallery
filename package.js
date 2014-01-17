@@ -10,12 +10,7 @@ Package.on_use(function(api) {
       'lib/blueimp-helper.js', 
       'lib/blueimp-gallery.min.css', 
       'lib/blueimp-gallery-video.js',
-      'lib/jquery.blueimp-gallery.js'
-    ]
-    , 'client'
-  );
-  api.add_files(
-    [
+      'lib/jquery.blueimp-gallery.js',
       'lib/bootstrap-image-gallery.css',
       'lib/bootstrap-image-gallery.js',
     ]
