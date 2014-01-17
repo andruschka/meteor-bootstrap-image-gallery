@@ -9,6 +9,7 @@ Package.on_use(function(api) {
       'lib/blueimp-gallery.js', 
       'lib/blueimp-helper.js', 
       'lib/blueimp-gallery.min.css', 
+      'lib/blueimp-gallery-video.js',
       'lib/jquery.blueimp-gallery.js'
     ]
     , 'client'
