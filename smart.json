@@ -3,6 +3,6 @@
   "description": "blueimp bootstrap image gallery packed for meteor",
   "homepage": "https://github.com/and-fri/meteor-bootstrap-image-gallery",
   "author": "and-fri",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/and-fri/meteor-bootstrap-image-gallery.git"
 }
