@@ -14,7 +14,9 @@ Package.on_use(function(api) {
       'lib/bootstrap-image-gallery.css',
       'lib/bootstrap-image-gallery.js',
       'lib/blueimp-gallery-video.css',
-      'lib/blueimp-youtube.js'
+      'lib/blueimp-youtube.js',
+      'lib/blueimp-gallery-audio.css',
+      'lib/blueimp-gallery-audio.js'
     ]
     , 'client'
   );
