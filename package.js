@@ -13,6 +13,7 @@ Package.on_use(function(api) {
       'lib/jquery.blueimp-gallery.js',
       'lib/bootstrap-image-gallery.css',
       'lib/bootstrap-image-gallery.js',
+      'lib/blueimp-gallery-video.css'
     ]
     , 'client'
   );
