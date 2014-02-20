@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-image-gallery",
-  "description": "blueimp bootstrap image gallery packed for meteor",
+  "description": "blueimp bootstrap image gallery",
   "homepage": "https://github.com/and-fri/meteor-bootstrap-image-gallery",
   "author": "and-fri",
   "version": "0.0.5",

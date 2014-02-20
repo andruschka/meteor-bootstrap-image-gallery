@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Blueimp's bootstrap image gallery packed for Meteor"
+  summary: "Blueimp's bootstrap image gallery"
 });
 
 Package.on_use(function(api) {
