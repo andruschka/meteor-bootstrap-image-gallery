@@ -1,8 +1,11 @@
 Package.describe({
-  summary: "Blueimp's bootstrap image gallery"
+  summary: "Blueimp's bootstrap image gallery",
+  version: "0.0.5",
+  git: "https://github.com/andruschka/meteor-bootstrap-image-gallery.git"
 });
 
 Package.on_use(function(api) {
+  api.versionsFrom("METEOR@0.9.0");
   api.use(['jquery'], 'client');
   api.add_files(
     [
